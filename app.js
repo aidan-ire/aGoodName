@@ -17,5 +17,3 @@ app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
 
-fdgjfdgkfgukfdkgukfguifdguidsuozeagtb79agtv6patq3gv69
-
